@@ -1,15 +1,15 @@
 # Basic-To-Advance-Golang
 
-### Download Golang 
+### ดาวน์โหลด Golang 
 
 url : https://golang.org/dl/
 
-### Open command line
+### เปิด command line
 
-- check version
+- ตรวจสอบ version
 
       go version
 
-- check environment
+- ตรวจสอบ environment
 
       go env
