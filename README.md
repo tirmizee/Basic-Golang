@@ -6,6 +6,10 @@ url : https://golang.org/dl/
 
 Open command line
 
-- check go version
+- check version
 
       go version
+
+- check environment
+
+      go env
